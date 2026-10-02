@@ -1,0 +1,31 @@
+Lead_ID,Company,Industry,Company_Size,Decision_Maker,Demo_Requested,Purchase_Urgency,Website_Visits,Email_Opens,Current_Vendor,Previous_Interaction,Sales_Notes
+L001,TechNova Solutions,IT Services,1000+,Yes,Yes,High,12,8,Competitor A,Positive,CIO asked for pricing tiers and a pilot timeline for Q4.
+L002,Brightline Retail,Retail,1000+,Yes,Yes,High,14,9,Competitor B,Positive,On the call they said the demo is only for market research. No budget approved this financial year.
+L003,Meridian Logistics,Logistics,201-1000,Yes,Yes,High,11,8,Competitor A,Positive,Contract with current vendor ends in December.
+L004,Kavya Pharma,Pharmaceuticals,1000+,Yes,Yes,Medium,10,9,In-house tool,Positive,Compliance team wants an audit trail feature.
+L005,Orbit Fintech,Financial Services,201-1000,Yes,Yes,High,9,8,Competitor C,Positive,
+L006,Northstar Hospitals,Healthcare,1000+,Yes,Yes,High,7,6,Manual process,Neutral,Head of IT joined the last call.
+L007,Silverleaf Insurance,Insurance,1000+,Yes,Yes,High,15,10,Competitor B,Neutral,
+L008,Ganga Foods,FMCG,201-1000,Yes,Yes,Medium,12,8,Competitor A,Positive,Wants a regional-language interface.
+L009,Apex Auto Components,Manufacturing,201-1000,No,Yes,Medium,8,5,Competitor A,Positive,Procurement manager is the contact; plant head not yet involved.
+L010,Cloudpeak Analytics,IT Services,51-200,Yes,No,High,10,7,None,Positive,
+L011,Indus EdTech,Education,201-1000,Yes,No,Medium,6,9,In-house tool,Neutral,
+L012,Sarovar Hotels Group,Hospitality,1000+,No,Yes,Medium,4,6,Competitor C,Neutral,Asked for references from other hotel chains.
+L013,Vertex Engineering,Engineering,201-1000,Yes,No,High,5,4,Manual process,Positive,
+L014,Bluewave Telecom,Telecom,1000+,No,No,High,11,8,Competitor B,Neutral,Interested but evaluation starts next quarter.
+L015,Greenfield Agritech,Agriculture,51-200,Yes,Yes,Low,6,5,None,Positive,
+L016,Prism Media Works,Media,51-200,Yes,Yes,Medium,3,2,None,Neutral,
+L017,Harbor Shipping Co,Logistics,1000+,No,Yes,Low,9,7,Competitor A,Neutral,
+L018,Lotus Realty,Real Estate,201-1000,Yes,No,Medium,12,10,Excel spreadsheets,No prior contact,
+L019,Quantum Labs India,Research,51-200,Yes,Yes,Medium,5,3,Competitor C,Neutral,"Small team, budget sits with parent company."
+L020,Zenith Textiles,Manufacturing,201-1000,No,No,High,10,8,Competitor A,Positive,
+L021,Pebble Design Studio,Design,1-50,No,No,Low,1,0,None,Neutral,
+L022,Riverbend Traders,Wholesale,1-50,No,No,Low,2,1,None,No prior contact,
+L023,Saffron Cafe Chain,Food Service,51-200,No,No,Low,3,2,Manual process,Neutral,
+L024,Echo Consulting,Consulting,1-50,Yes,No,Low,2,3,None,Neutral,
+L025,Metro Print Solutions,Printing,51-200,No,No,Medium,4,4,None,Negative,Complained about pricing on the first call.
+L026,Nimbus Events,Events,1-50,No,No,Low,0,1,None,No prior contact,
+L027,Coral Diagnostics,Healthcare,51-200,No,No,Medium,6,2,In-house tool,Neutral,
+L028,Urban Nest Interiors,Interiors,1-50,No,Yes,Low,3,1,None,Neutral,
+L029,Falcon Security Services,Security,201-1000,No,No,Low,2,5,Competitor B,Negative,Recently renewed a 3-year contract with their vendor.
+L030,Tara Handicrafts,Retail,1-50,No,No,Low,1,0,None,Neutral,

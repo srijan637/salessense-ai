@@ -1,0 +1,6 @@
+Lead_ID,Company,Industry,Company_Size,Decision_Maker,Demo_Requested,Purchase_Urgency,Website_Visits,Email_Opens,Current_Vendor,Previous_Interaction,Sales_Notes
+L001,TechNova Solutions,IT Services,1000+,Yes,Yes,High,12,8,Competitor A,Positive,CIO asked for pricing tiers and a pilot timeline for Q4.
+L101,,IT Services,201-1000,Yes,Yes,High,8,5,Competitor A,Positive,Blank company name
+L102,Delta Systems,IT Services,201-1000,Yes,Yes,High,-4,5,Competitor A,Positive,Negative website visits
+L103,Sigma Retail,Retail,huge,Yes,Maybe,High,3,-1,None,Neutral,Several invalid values
+L021,Pebble Design Studio,Design,1-50,No,No,Low,1,0,None,Neutral,

@@ -89,7 +89,9 @@ with st.sidebar:
         st.info("No Gemini API key found. Running in rule-based mode.")
     st.divider()
     st.caption("Decision support only. Scores are based on business rules, not a "
-               "prediction of conversion. The salesperson makes the final decision. "
+               "prediction of conversion. The salesperson makes the final decision.")
+    st.caption("🔒 Privacy: lead details you submit for AI analysis, including sales "
+               "notes, are sent to Google's Gemini API. Nothing is saved by this app. "
                "Use synthetic or consented data only.")
 
 
